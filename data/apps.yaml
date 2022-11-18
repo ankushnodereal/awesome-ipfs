@@ -481,7 +481,7 @@ content:
     description: >
       Unofficial port of musicforprogramming.net.
   - title: InfiniteBooru
-    source: https://infinitebooru.com
+    source: 
     picture: /images/infinitebooru.png
     description: >
       A booru-style media tagging application and content aggregator
